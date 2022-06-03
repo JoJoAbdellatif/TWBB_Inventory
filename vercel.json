@@ -1,9 +1,10 @@
 {
     "version": 2,
+    "alias": ["https://github.com/XXXJoJoXXX/TWBB_Inventory.git", "origin"],
     "builds": [
       {
         "src": "./index.js",
-        "use": "avercel/node"
+        "use": "@vercel/node"
       }
     ],
     "routes": [
