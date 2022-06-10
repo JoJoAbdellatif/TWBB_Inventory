@@ -1,101 +1,101 @@
-productName,productCategory,productPrice,productQuantity,productDescription,productWeight,productImages
-Soda,Drinks,328,318,Drink it ,273,
-Milk,Drinks,9,9,Drink it ,589,
-Chips,Sweets,1,9,Eat it,970,
-Eggs,Others,3,10,Eat it,369,
-Bread,Bakery,9,3,Eat it,969,
-Kitkat,Sweets,10,3,Eat it,636,
-Snicker,Sweets,6,5,Eat it,240,
-Cheese,Others,8,7,Eat it,256,
-Pepsi,Drinks,8,3,Drink it ,283,
-Water,Drinks,2,10,Drink it ,880,
-Cigarette,Others,4,2,Don't buy it,988,
-Cookies,Sweets,3,3,Eat it,899,
-Oreo,Sweets,3,1,Eat it,850,
-Pepperoni,Meat,5,2,Eat it,131,
-Milkshake,Drinks,6,1,Drink it ,419,
-Cupcake ,Bakery,9,9,Eat it,696,
-Apple,Fruits,2,2,Eat it,862,
-Orange,Fruits,5,5,Eat it,218,
-Tomatoes,Fruits,2,6,Eat it,100,
-Cucumbers,Vegetables,3,10,Eat it,729,
-Oxi,Cleaning Products,9,6,Clean with it,400,
-Coffee,Drinks,4,9,Drink it ,782,
-Yoghurt,Others,4,7,Eat it,291,
-Fruitjuice,Drinks,5,10,Drink it ,240,
-Cake,Sweets,3,9,Eat it,591,
-Hotdogs,Meat,8,9,Eat it,334,
-Peanutbutter,Sauces,4,10,Eat it,192,
-Potato,Vegetables,5,4,Eat it,352,
-Diaper,Others,6,2,Wear it,131,
-Mayonnaise,Sauces,8,4,Eat it,639,
-Garlic,Vegetables,6,4,Eat it,499,
-Frozenpizza,Fast Food,10,7,Eat it,689,
-Carrot,Vegetables,3,7,Eat it,599,
-Icecream,Sweets,6,9,Eat it,997,
-Sausage,Meat,3,9,Eat it,886,
-Onion,Vegetables,9,8,Eat it,288,
-Butter,Others,5,8,Eat it,189,
-Painkillers,Medicine,7,7,Take it,597,
-Vitamin c,Medicine,7,9,Take it,924,
-Pasta,Fast Food,4,6,Eat it,506,
-Eggplant,Vegetables,3,8,Eat it,687,
-Pancake,Bakery,6,1,Eat it,152,
-Biscuits,Sweets,9,1,Eat it,703,
-Frozenfish,Others,1,2,Eat it,558,
-Peas,Vegetables,7,6,Eat it,398,
-Iphone,Technology,4,3,Use it,147,
-Rice,Others,5,2,Eat it,933,
-Grapes,Fruits,9,9,Eat it,431,
-Donuts,Bakery,2,5,Eat it,841,
-Tea,Drinks,8,4,Drink it ,531,
-Catfood,Others,9,9,Use it,151,
-Giftcards,Others,2,2,Use it,171,
-Watermelon,Fruits,6,1,Eat it,933,
-Beans,Vegetables,4,2,Eat it,407,
-Tunafish,Others,9,9,Eat it,219,
-Nuts,Others,4,9,Eat it,492,
-Dishsoap,Cleaning Products,6,7,Use it,280,
-Mustard,Sauces,2,4,Eat it,877,
-Toiletpaper,Cleaning Products,9,2,Use it,767,
-Jams,Sauces,2,5,Eat it,589,
-Honey,Sauces,6,3,Eat it,485,
-Energydrinks,Drinks,10,9,Drink it ,849,
-Bbq,Sauces,1,8,Eat it,289,
-Strawberry,Fruits,3,10,Eat it,110,
-Disposablecups,Plastic,2,10,Use it,321,
-Lemon,Vegetables,10,2,Eat it,595,
-Sunfloweroil,Sauces,10,3,Use it,982,
-Flour,Others,2,3,Use it,328,
-Kiwi,Fruits,4,2,Eat it,567,
-Meatballs,Meat,7,4,Eat it,448,
-Ketchup,Sauces,2,5,Eat it,967,
-Chewinggum,Sweets,4,3,Eat it,287,
-Noodles,Fast Food,9,6,Eat it,287,
-Disposableplates,Plastic,1,5,Use it,782,
-Tissues,Cleaning Products,3,9,Use it,958,
-Oliveoil,Sauces,9,2,Use it,799,
-Tablet,Technology,10,5,Use it,168,
-Shampoo,Cleaning Products,3,4,Use it,483,
-Cerelac,Others,6,3,Eat it,621,
-Mango,Fruits,3,7,Eat it,768,
-Toothpaste,Others,10,8,Use it,248,
-Soap,Cleaning Products,6,5,Use it,635,
-Tomatopaste,Sauces,7,5,Eat it,896,
-Banana,Fruits,8,1,Eat it,434,
-Laptop,Technology,6,7,Use it,941,
-Baggedsalads,Vegetables,5,6,Eat it,557,
-Pineapple,Fruits,8,5,Eat it,598,
-Vinegar,Sauces,9,9,Use it,859,
-Batteries,Technology,9,4,Use it,670,
-Peach,Fruits,6,4,Eat it,464,
-Pear,Fruits,5,9,Eat it,811,
-Guava,Fruits,3,2,Eat it,169,
-Coconut,Fruits,9,9,Eat it,574,
-Mandarine,Fruits,1,4,Eat it,904,
-Cherry,Fruits,6,1,Eat it,837,
-Blueberry,Fruits,1,2,Eat it,356,
-Corn,Vegetables,2,10,Eat it,967,
-Lettuce,Vegetables,3,9,Eat it,260,
-Mushrooms,Vegetables,10,8,Eat it,502,
-Spinach,Vegetables,3,9,Eat it,713,
+productName,productCategory,productDescription,productPrice,productQuantity,productWeight,productImages
+Soda,Drinks,Drink it ,5000,50,273,https://images.heb.com/is/image/HEBGrocery/001397083
+Milk,Drinks,Drink it ,5000,50,589,https://www.luluhypermarket.com/medias/1080150-01.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzIzNTh8aW1hZ2UvanBlZ3xpbWFnZXMvaDkyL2hiMi85MDk1ODY1ODkyODk0LmpwZ3wyZWMwYTM3M2FiMzMwYzk4YTcwMDRjODViMWE1NThmYjM5NWI1ZDJmYjcyZjgyOGE4OTViZTMyYjhjNzQyMzQy
+Chips,Sweets,Eat it,5000,50,970,https://m.media-amazon.com/images/I/81nM3GJpj7L.jpg
+Eggs,Others,Eat it,5000,50,369,https://img.freepik.com/free-photo/chicken-eggs-pulp-egg-carton-isolated-white-background_250899-169.jpg
+Bread,Bakery,Eat it,5000,50,969,https://media.istockphoto.com/photos/bread-in-plastic-bag-picture-id518733512?k=20&m=518733512&s=612x612&w=0&h=g9X2ppfmJ73l3GpQX2B7rczYcOtEMhDcxBaiyuO3fGQ=
+Kitkat,Sweets,Eat it,5000,50,636,https://article.innovadatabase.com/articleimgs/article_images/637545935061727843KitKat%20square.png
+Snicker,Sweets,Eat it,5000,0,240,"https://images.heb.com/is/image/HEBGrocery/000121400?fit=constrain,1&wid=800&hei=800&fmt=jpg&qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0"
+Cheese,Others,Eat it,5000,50,256,https://cdn.britannica.com/60/217660-050-DBCC409A/cheddar-cheese-wedge.jpg
+Pepsi,Drinks,Drink it ,5000,50,283,https://m.media-amazon.com/images/I/515Lwr5CyxL.jpg
+Water,Drinks,Drink it ,5000,2,880,https://www.luluhypermarket.com/medias/554815-01.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzQyNTh8aW1hZ2UvanBlZ3xoMzAvaGQ2LzEyMDQ4ODQ4NjUwMjcwLzU1NDgxNS0wMS5qcGdfMTIwMFd4MTIwMEh8ZjYyZWQwODM2NzRhNjA1Y2U2OWIzZTE2ZTE2MjBhNDA5ZGZjMjkyODYzNWQyMzUyYzU3MTI0NDBiMjQ1Mzc5Yw
+Cigarette,Others,Don't buy it,5000,50,988,https://a.1stdibscdn.com/massive-vintage-marlboro-light-up-cigarette-pack-for-sale/1121189/f_237720921621063274539/23772092_master.jpeg
+Cookies,Sweets,Eat it,5000,5,899,https://www.ubuy.vn/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODE1SVJudmkwd0wuX1NMMTUwMF8uanBn.jpg
+Oreo,Sweets,Eat it,5000,50,850,https://www.confitelia.com/2982-thickbox_default/biscuits-oreo-classic-66-grams.jpg
+Pepperoni,Meat,Eat it,5000,50,131,https://sob-prd-cdn-products.azureedge.net/media/image/product/en/large/0006008505224.jpg
+Milkshake,Drinks,Drink it ,5000,50,419,https://www.luluhypermarket.com/medias/1279344-01.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNzcxNjV8aW1hZ2UvanBlZ3xoOTEvaDZhLzEyNzc4NDY1MDM0MjcwLzEyNzkzNDQtMDEuanBnXzEyMDBXeDEyMDBIfDA4ZjdjMmI3OWZjOWEwNGI2ZThhZTRiOTkyZTc1NzdhZThjMjkzM2ExM2FlYjY5MWEwMDg1OGNkNTE1ZDBjNWI
+Cupcake ,Bakery,Eat it,5000,50,696,https://www.luluhypermarket.com/medias/1338506-01.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyNzE5ODl8aW1hZ2UvanBlZ3xoNGMvaDA4LzExMzk5NjI2MDYzOTAyLzEzMzg1MDYtMDEuanBnXzEyMDBXeDEyMDBIfDg3MmZmNmM2M2VlMDU1ODcyYjM1ODQxYjFhYzcxMzJmNmJhYTAxYmQzOTZkN2FmMmUzYzEzMjU1ZGM2NWNiYjc
+Apple,Fruits,Eat it,5000,50,862,https://www.collinsdictionary.com/images/full/apple_158989157.jpg
+Orange,Fruits,Eat it,5000,50,218,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Orange-Fruit-Pieces.jpg/1200px-Orange-Fruit-Pieces.jpg
+Tomatoes,Fruits,Eat it,5000,50,100,https://media.istockphoto.com/photos/tomato-with-slice-isolated-with-clipping-path-picture-id941825878?k=20&m=941825878&s=612x612&w=0&h=Qx5wYoEKsig3BGfhHAb2ZUqRBrhi6k64ZbXp3_zhj4o=
+Cucumbers,Vegetables,Eat it,5000,50,729,https://kiranadude.com/wp-content/uploads/2022/03/Cucumber.jpg
+Oxi,Cleaning Products,Clean with it,5000,0,400,https://m.media-amazon.com/images/I/71wdCFEDWOL.jpg
+Coffee,Drinks,Drink it ,5000,50,782,https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2018%2F02%2F13%2Fassets-message-editor-1485189525653-dunkin_0.jpeg
+Yoghurt,Others,Eat it,5000,50,291,https://www.luluhypermarket.com/medias/486998-01.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMjkwMDV8aW1hZ2UvanBlZ3xoMzEvaGMxLzk1MTQzMTQ5ODk1OTgvNDg2OTk4LTAxLmpwZ18xMjAwV3gxMjAwSHw3NzYyZGMyOWNlZTQ0M2ZmZGZjOWU2MTg0N2NlN2M3NDQ1MDA4ZmQ2MjE3OTU5N2RhNzBjZDdiMGFjMTI0Nzc0
+Fruitjuice,Drinks,Drink it ,5000,50,240,https://www.jiomart.com/images/product/original/490001987/real-fruit-power-mixed-fruit-juice-1-l-product-images-o490001987-p490001987-0-202203170837.jpg
+Cake,Sweets,Eat it,5000,50,591,https://www.luluhypermarket.com/medias/18149-01.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wyMzc3MTR8aW1hZ2UvanBlZ3xpbWFnZXMvaGJmL2hhYS9oMDAvOTI2MjY0Nzc3MTE2Ni5qcGd8ODBhYWZmY2U1MmQzODk1NjE2ZGJhYjA4MmQ3NWNmNWFhNDE5MDUyYjdlYjVmYWI4ODNmMjQ1MzdhOTM1MmIyMQ
+Hotdogs,Meat,Eat it,5000,50,334,https://media.istockphoto.com/photos/hotdog-sausages-picture-id598544706?k=20&m=598544706&s=612x612&w=0&h=tVMGJkBWTLyDCZ9e6JLv98tRIDGreIDfVXnLRn4af1w=
+Peanutbutter,Sauces,Eat it,5000,50,192,https://img.freepik.com/free-photo/creamy-peanut-butter-jar-white-background_495423-26352.jpg?w=2000
+Potato,Vegetables,Eat it,5000,50,352,https://www.collinsdictionary.com/images/full/potato_113134582.jpg
+Diaper,Others,Wear it,5000,50,131,https://m.media-amazon.com/images/I/61jiC0ORycL.jpg
+Mayonnaise,Sauces,Eat it,5000,50,639,https://m.media-amazon.com/images/I/81MoLlbTRBL._SL1500_.jpg
+Garlic,Vegetables,Eat it,5000,50,499,https://kiranadude.com/wp-content/uploads/2022/03/Garlic.jpg
+Frozenpizza,Fast Food,Eat it,5000,50,689,https://thumbs.dreamstime.com/b/stockport-united-kingdom-december-th-goodfella-s-frozen-new-recipe-thin-stone-baked-pepperoni-cheese-pizza-packaging-isolated-169651416.jpg
+Carrot,Vegetables,Eat it,5000,50,599,https://upload.wikimedia.org/wikipedia/commons/d/dc/Carrot-fb.jpg
+Icecream,Sweets,Eat it,5000,50,997,https://www.eatthis.com/wp-content/uploads/sites/4/2019/07/ben-jerrys-vanilla.jpg
+Sausage,Meat,Eat it,5000,50,886,https://t3.ftcdn.net/jpg/02/76/31/04/360_F_276310410_HLzQmATTERJvae6Wa7VQLXszdnIyaOSh.jpg
+Onion,Vegetables,Eat it,5000,50,288,https://img.freepik.com/free-photo/purple-onion-white-background_319172-2020.jpg?w=2000
+Butter,Others,Eat it,5000,50,189,https://i5.walmartimages.com/asr/c3fa5f37-d0ea-4af8-91d9-7086723c52b8_3.6c34f9478eef670737603a02030ba8fe.jpeg
+Painkillers,Medicine,Take it,5000,50,597,https://static.vecteezy.com/system/resources/previews/005/814/332/original/a-blister-of-pills-medications-medications-vitamins-aspirin-painkillers-vitamins-and-dietary-supplements-treat-disease-flat-illustration-on-a-white-background-vector.jpg
+Vitamin c,Medicine,Take it,5000,50,924,https://images.hollandandbarrettimages.co.uk/productimages/HB/724/030102_A.jpg
+Pasta,Fast Food,Eat it,5000,50,506,https://img.freepik.com/free-photo/spaghetti-white-background_36020-51.jpg
+Eggplant,Vegetables,Eat it,5000,50,687,https://produits.bienmanger.com/35371-0w600h600_Eggplant_From_France.jpg
+Pancake,Bakery,Eat it,5000,50,152,https://img.freepik.com/free-vector/delicious-fluffy-pancake-with-honey-butter-toppings-white-background_281653-999.jpg
+Biscuits,Sweets,Eat it,5000,50,703,https://produits.bienmanger.com/36647-0w470h470_Tradional_Biscuits_Maria.jpg
+Frozenfish,Others,Eat it,5000,50,558,https://5.imimg.com/data5/UY/BO/IR/SELLER-91983773/frozen-fish-500x500.jpg
+Peas,Vegetables,Eat it,5000,50,398,https://media.healthyfood.com/wp-content/uploads/2017/03/In_season_December_Peas.jpg
+Iphone,Technology,Use it,5000,50,147,https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-family-select-2021?wid=940&hei=1112&fmt=jpeg&qlt=90&.v=1617135051000
+Rice,Others,Eat it,5000,50,933,https://img.freepik.com/free-photo/rice-bag-white-background_269543-952.jpg
+Grapes,Fruits,Eat it,5000,50,431,https://img.freepik.com/free-photo/red-grapes-isolated-white-background_33736-2738.jpg?w=2000
+Donuts,Bakery,Eat it,5000,50,841,https://ak.picdn.net/shutterstock/videos/1022736718/thumb/1.jpg
+Tea,Drinks,Drink it ,5000,50,531,https://images.ctfassets.net/e8bhhtr91vp3/3Hch2r46UwnqsAx8Ln0GtX/12e68edc558a7d65c58ee7454559ad3b/6221155032720_lipton_yellow_label_black_dust_tea_250gm-2-1639013-jpg.jpg?w=800&q=80
+Catfood,Others,Use it,5000,50,151,https://www.bigbasket.com/media/uploads/p/xxl/40214916_1-whiskas-tasty-wet-cat-food-tuna-fish-kanikama-with-carrots-in-gravy-1-year.jpg
+Giftcards,Others,Use it,5000,50,171,https://www.egygamer.com/media/catalog/product/cache/796b3d18b5db5152be06a3c06a2ed81b/3/6/3695121_sd.jpg
+Watermelon,Fruits,Eat it,5000,50,933,https://cdnprod.mafretailproxy.com/sys-master-root/hc9/h70/14530883256350/32553_main.jpg_480Wx480H
+Beans,Vegetables,Eat it,5000,50,407,https://i5.walmartimages.com/asr/9ccedcbd-4a7d-468d-930f-34f092071407.325ac485924e876f71e9af4b33ec7993.png
+Canned Tuna,Others,Eat it,5000,50,219,https://i5.walmartimages.com/asr/6e6b3acb-4b76-4d40-b742-f87a17f4f9b7.480b30760a0afaa1abd2697d2b56ee04.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF
+Nuts,Others,Eat it,5000,50,492,https://www.grandturkishbazaar.com/wp-content/uploads/2020/12/luxury-assorted-turkish-nuts-1.jpg
+Dishsoap,Cleaning Products,Use it,5000,50,280,https://res.cloudinary.com/pgone/image/upload/pgone/dawn-dish/en-us/prod/images/gengiosntiklmcvf8xkc
+Mustard,Sauces,Eat it,5000,50,877,https://images.heb.com/is/image/HEBGrocery/001853126
+Toiletpaper,Cleaning Products,Use it,5000,50,767,https://cdnprod.mafretailproxy.com/sys-master-root/h62/h58/10808963694622/508204_main.jpg_480Wx480H
+Jams,Sauces,Eat it,5000,50,589,https://cdn.gourmetegypt.com/media/catalog/product/cache/c687aa7517cf01e65c009f6943c2b1e9/6/3/637793000988.jpg
+Honey,Sauces,Eat it,5000,50,485,https://freshearth.co.za/wp-content/uploads/2017/09/raw-honey.jpg
+Energydrinks,Drinks,Drink it ,5000,50,849,https://selvastoreuk.com/wp-content/uploads/2020/08/5060166690687.jpg
+Bbq,Sauces,Eat it,5000,50,289,https://www.ubuy.com.eg/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODFyZDNqVHdMRkwuX1NMMTUwMF8uanBn.jpg
+Strawberry,Fruits,Eat it,5000,50,110,https://th-thumbnailer.cdn-si-edu.com/HbjgFTByNBHi4ylALyGYvxr7_5E=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/39/3c/393c51d9-ce11-49ce-9d41-5ef599dfabea/bn8e34.jpg
+Disposablecups,Plastic,Use it,5000,50,321,https://ae01.alicdn.com/kf/H05e0675663ab48828feb4411d57f8615I.jpg
+Lemon,Vegetables,Eat it,5000,50,595,https://remastrades.com/wp-content/uploads/2020/11/Lemon.jpg
+Sunfloweroil,Sauces,Use it,5000,50,982,https://cdnprod.mafretailproxy.com/sys-master-root/h6b/ha4/15070709514270/447683_main.jpg_1700Wx1700H
+Flour,Others,Use it,5000,50,328,https://www.luluhypermarket.com/medias/134351-0001.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxMzY5ODN8aW1hZ2UvanBlZ3xpbWFnZXMvaDYyL2hkOS85MTA2NjA4MjI2MzM0LmpwZ3w0MmEyM2E2YjQzZTc5MDQ0MzEyNDY4NjBkOTRmZjUxM2U0YzEzMzdkOGM2MDQyMTgxNDE4MTQ4NzE0ZmI2OTVj
+Kiwi,Fruits,Eat it,5000,50,567,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg/1200px-Kiwi_%28Actinidia_chinensis%29_1_Luc_Viatour.jpg
+Meatballs,Meat,Eat it,5000,50,448,https://media.istockphoto.com/photos/baked-homemade-meatballs-picture-id1272945304?k=20&m=1272945304&s=612x612&w=0&h=5TAYeKCenw7DXSa4-22-aRVEWzdnVQK3H7u-l382QI0=
+Ketchup,Sauces,Eat it,5000,50,967,https://m.media-amazon.com/images/I/71szc59Y0aL._SL1500_.jpg
+Chewinggum,Sweets,Eat it,5000,50,287,https://cdnprod.mafretailproxy.com/sys-master-root/hb5/ha8/27326069178398/532315_2.jpg_480Wx480H
+Noodles,Fast Food,Eat it,5000,50,287,https://tharacart.com/wp-content/uploads/2021/09/3.jpg
+Disposableplates,Plastic,Use it,5000,50,782,https://cdn11.bigcommerce.com/s-2fq65jrvsu/images/stencil/1280x1280/products/393/982/18835_large_1__74004.1615941480.jpg?c=1
+Tissues,Cleaning Products,Use it,5000,50,958,https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/SC57607_tork_premium_2_ply_facial_tissues_224_sheets.jpg
+Oliveoil,Sauces,Use it,5000,50,799,https://www.ubuy.com.eg/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvODEtSVdHcW82ZEwuX1NMMTUwMF8uanBn.jpg
+Tablet,Technology,Use it,5000,50,168,https://www.ubuy.com.eg/productimg/?image=aHR0cHM6Ly9pNS53YWxtYXJ0aW1hZ2VzLmNvbS9hc3IvZTBjYzQ4NWUtM2VkZi00NjczLWJjNzgtMTA0ZWQzOWQxOTA1LjJjNjU4OWM5M2E2NTVkNWY4ZmUyNmU4ZTVkY2NhNzlkLmpwZWc.jpg
+Shampoo,Cleaning Products,Use it,5000,50,483,https://cdnprod.mafretailproxy.com/sys-master-root/h4c/hed/14804068335646/446332_main.jpg_1700Wx1700H
+Cerelac,Others,Eat it,5000,50,621,https://www.ubuy.com.eg/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFSbkJ2K0llQkwuX1NMMTUwMF8uanBn.jpg
+Mango,Fruits,Eat it,5000,50,768,https://cairofruit.com/wp-content/uploads/2020/10/Mango.jpg
+Toothpaste,Others,Use it,5000,50,248,https://www.ubuy.fr/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFON3BPbGtTWUwuX1NMMTUwMF8uanBn.jpg
+Soap,Cleaning Products,Use it,5000,50,635,https://images.thdstatic.com/productImages/a62b4338-d21f-4e9f-af99-9b786e2441c5/svn/dove-hand-soaps-uni61073ct-64_600.jpg
+Tomatopaste,Sauces,Eat it,5000,50,896,https://cdnprod.mafretailproxy.com/sys-master-root/hff/h15/14952401993758/356958_main.jpg_1700Wx1700H
+Banana,Fruits,Eat it,5000,50,434,https://img.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_1284-45456.jpg
+Laptop,Technology,Use it,5000,50,941,https://m.media-amazon.com/images/I/718ETwvLVOL._SL1500_.jpg
+Baggedsalads,Vegetables,Eat it,5000,50,557,https://media.phillyvoice.com/media/images/070120_Fresh_Express_Salad_Recall.2e16d0ba.fill-735x490.png
+Pineapple,Fruits,Eat it,5000,50,598,https://m.media-amazon.com/images/I/71+qAJehpkL.jpg
+Vinegar,Sauces,Use it,5000,50,859,https://i5.walmartimages.com/asr/2b926e71-7449-450d-9242-87299de37520.222165f61e9c180f439a504f0de18e02.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF
+Batteries,Technology,Use it,5000,50,670,https://i5.walmartimages.com/asr/30d4eb05-b470-49ff-a558-aaa2284957c3.85ea010b87456d732d56d78a0509767d.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF
+Peach,Fruits,Eat it,5000,50,464,https://static.libertyprim.com/files/familles/peche-large.jpg?1574630286
+Pear,Fruits,Eat it,5000,50,811,https://healthjade.com/wp-content/uploads/2017/10/pear.jpg
+Guava,Fruits,Eat it,5000,50,169,https://thekitchencommunity.org/wp-content/uploads/2021/09/What-Does-Guava-Taste-Like-1200x675.jpg
+Coconut,Fruits,Eat it,5000,50,574,https://images.heb.com/is/image/HEBGrocery/000375273
+Mandarine,Fruits,Eat it,5000,50,904,https://www.luluhypermarket.com/medias/36310-01.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDcxNjB8aW1hZ2UvanBlZ3xpbWFnZXMvaDFmL2g2MC9oMDAvOTMxNzYzNDk2NTUzNC5qcGd8MDEyOTIxNTM5YjBhYzczOWI4YzRiNjM0MDNjNzFmZjE0NTIxZTUxNDY2MTE4ZjFiMDE1YjdhYzJlZmQ0OTM1OA
+Cherry,Fruits,Eat it,5000,50,837,https://proto.gr/sites/www.proto.gr/files/styles/colorbox/public/images/fruits/cherries.jpg?itok=mDWbqXnf
+Blueberry,Fruits,Eat it,5000,50,356,https://cdn.shopify.com/s/files/1/2971/2126/products/Blueberry_2000x_5ff589dd-8ee5-4c61-a520-716bdc0e25cc_2000x.jpg?v=1626661566
+Corn,Vegetables,Eat it,5000,50,967,https://safwachemicals.com/wp-content/uploads/2019/12/p2.jpg
+Lettuce,Vegetables,Eat it,5000,50,260,https://cdn.shopify.com/s/files/1/0244/4961/3905/products/BabyRomaine.jpg?v=1605446560
+Mushrooms,Vegetables,Eat it,5000,50,502,https://thumbs.dreamstime.com/b/mushrooms-white-background-ripe-vegetables-waiting-to-be-cooked-space-text-178553191.jpg
+Spinach,Vegetables,Eat it,5000,50,713,https://www.luluhypermarket.com/medias/384429-00001.jpg-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDIyODZ8aW1hZ2UvanBlZ3xpbWFnZXMvaDc4L2hiYi85MDg0Mjg1NDUyMzE4LmpwZ3w4MjFjZWFjNjRiMDYxMDA5ZGMwMTQ4MjAyNzFmNWE5NWNkNzQzZTI5ZDE5MTAwYWMwMTE3NmEwMjc0ZThmOTBi
