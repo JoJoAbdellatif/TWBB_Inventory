@@ -150,6 +150,6 @@ productRoute.patch('/quantAfterOrder',asyncHandler( async (req , res) => {
     res.send('Updated Quantity')
 }))
        
-
+//export
 module.exports = productRoute
 
